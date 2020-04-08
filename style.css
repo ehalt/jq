@@ -71,3 +71,21 @@
     height: 200px;
     background-color: #00f;
   }
+
+  /* ======================= color animation ===================== */
+
+  #elem {
+      color:  #006;
+      background-color: #aaa;
+      font-size: 25px;
+      padding: 1em;
+      text-align: center;
+}
+
+/* ========================== .effect() =====================*/
+.efff{
+    width: 100px;
+    height: 100px;
+    background: #ccc;
+    border: 1px solid #000;
+}
