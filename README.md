@@ -1,2 +1,0 @@
-# jq
-Learning jquery basics
