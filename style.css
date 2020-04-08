@@ -25,3 +25,36 @@
     margin-top: 20px;
     display:none;
 }
+/* ================/ jquery slide /===================== */
+
+.btn{
+    width: 400px;
+    background: black;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.lorem{
+    width: 400px;
+    background: tomato;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    font-size: 20px;
+    float: left;
+    display: none;
+}
+
+/* =====================/ Jquery animation /================== */
+
+.animdiv{
+    width: 100px;
+    height: 100px;
+    background: tomato;
+    margin-top: 50px;
+    position: relative;
+}
