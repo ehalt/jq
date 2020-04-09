@@ -89,3 +89,37 @@
     background: #ccc;
     border: 1px solid #000;
 }
+/* =========================== .stop() ========================= */
+
+.stpp{
+    width: 80%;
+    margin: 0 auto;
+}
+.stp {
+    width: 400px;
+    background: green;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.stptxt{
+    width: 400px;
+    background: lightblue;
+    padding: 10px;
+    display: none;
+    overflow:hidden;
+}
+.stp0 {
+    padding: 15px;
+}
+/* ======================/  .explode()  /======================= */
+
+.toggle{
+    width: 100px;
+    height: 100px;
+    background: grey;
+}
+
+
+
